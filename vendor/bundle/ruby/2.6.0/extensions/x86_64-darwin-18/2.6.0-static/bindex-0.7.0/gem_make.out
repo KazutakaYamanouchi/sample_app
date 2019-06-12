@@ -1,0 +1,15 @@
+current directory: /Users/nomad/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/nomad/.rbenv/versions/2.6.3/bin/ruby -I /Users/nomad/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190612-51407-u4ilpi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nomad/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/nomad/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/nomad/Desktop/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190612-51407-1pn6ntq/skiptrace
